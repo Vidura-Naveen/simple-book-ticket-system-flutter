@@ -50,20 +50,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDGSZzqVO_FUBK2LsyKeEnhgR1MWoWdGvc',
-    appId: '1:6248013987:web:db89bc9c7dd649ec981f16',
-    messagingSenderId: '6248013987',
-    projectId: 'bookpart-7137c',
-    authDomain: 'bookpart-7137c.firebaseapp.com',
-    storageBucket: 'bookpart-7137c.appspot.com',
-    measurementId: 'G-HN4YDFN0WZ',
+
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBJGTy8PJRkSJ-gyU-hgt2niJw6yGaAVjg',
-    appId: '1:6248013987:android:4abb01c722934cfa981f16',
-    messagingSenderId: '6248013987',
-    projectId: 'bookpart-7137c',
-    storageBucket: 'bookpart-7137c.appspot.com',
+
   );
 }
