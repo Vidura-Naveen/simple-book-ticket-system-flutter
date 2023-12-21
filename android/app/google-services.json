@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6248013987",
+    "project_id": "bookpart-7137c",
+    "storage_bucket": "bookpart-7137c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6248013987:android:4abb01c722934cfa981f16",
+        "android_client_info": {
+          "package_name": "com.example.bookpart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJGTy8PJRkSJ-gyU-hgt2niJw6yGaAVjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
